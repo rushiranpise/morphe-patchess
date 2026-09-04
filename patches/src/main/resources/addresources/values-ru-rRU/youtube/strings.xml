@@ -766,8 +766,8 @@ Second \"item\" text"</string>
   <string name="morphe_hide_fullscreen_button_title">Скрыть кнопку \"Полный экран\"</string>
   <string name="morphe_hide_player_control_buttons_background_title">Скрыть фон кнопок управления плеера</string>
   <string name="morphe_hide_player_control_buttons_background_summary">Скрывает темное затенение вокруг элементов управления видеоплеером</string>
-  <string name="morphe_player_control_buttons_background_opacity_title">Непрозрачность фона кнопок управления</string>
-  <string name="morphe_player_control_buttons_background_opacity_summary">Отрегулируйте непрозрачность круга за кнопками управления плеером (0 — невидимый, 100 — непрозрачный)</string>
+  <string name="morphe_player_control_buttons_background_opacity_title">Прозрачность фона кнопок управления</string>
+  <string name="morphe_player_control_buttons_background_opacity_summary">Настройте прозрачность круга, расположенного за кнопками управления плеером (0 — прозрачный, 100 — сплошной)</string>
   <string name="morphe_hide_player_previous_next_buttons_title">Скрыть кнопки предыдущего и следующего видео</string>
   <string name="morphe_hide_settings_button_title">Скрыть кнопку \"Настройки\"</string>
   <!-- layout.hide.endscreencards.hideEndScreenCardsPatch -->
